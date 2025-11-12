@@ -1,4 +1,6 @@
-public class usuario {
+package model.Usuario;
+
+public class Usuario {
     private int id ;
     private String nome;
     private String email;
