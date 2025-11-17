@@ -27,8 +27,8 @@ public class Despesas {
     public  int getUsuarioId() {return usuarioId;}
     public void setUsuarioId(int usuario){this.usuarioId = usuario;}
 
-    public String getdescricao() {return descricao;}
-    public void setdescricao(String descricao) {this.descricao = descricao;}
+    public String getDescricao() {return descricao;}
+    public void setDescricao(String descricao) {this.descricao = descricao;}
 
     public String getCategoria() {return categoria;}
     public void setCategoria(String categoria){this.categoria = categoria;}
